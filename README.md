@@ -1,3 +1,5 @@
+<img src="https://mundoconectado.com.br/uploads/chamadas/capa-programacao.jpg" />
+
 - 👋 Hi, I’m @DevBerriel
 - 👀 I’m interested in HTML, CSS, JS, JAVA, Spring Boot, MySQL
 - 🌱 I’m currently learning JAVA
